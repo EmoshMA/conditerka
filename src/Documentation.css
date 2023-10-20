@@ -1,0 +1,33 @@
+body {
+    background-image: url(assets/bg.svg);
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 24px;
+}
+.spisokmini{
+    margin-bottom: 1em;
+}
+
+.spisok{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 360px;
+    justify-content: space-evenly;
+}
+.root{
+font-size: 24px;
+}
+
+.container{
+    background-color: white;
+    border-radius: 1em;
+    width: 1900px;
+    height: 200px;
+}
+
+.spisokfooter{
+    display: flex;
+    flex-direction: column;
+    float: left;
+    width: 290px;
+}
